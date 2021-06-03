@@ -1,4 +1,4 @@
-# ASW-SAGEMAKER-1
+# AWS-SAGEMAKER-1
 
 # Datasets stored in S3 bucket
 ![Screenshot (8)](https://user-images.githubusercontent.com/74641501/120639090-9d656480-c48e-11eb-8baa-ed33c04f920f.png)
